@@ -1,3 +1,13 @@
+## Table of Contents
+
+- [Objective](#objective)
+- [Lab Architecture](#lab-architecture)
+- [Implemented Labs](#implemented-labs)
+- [Password Spraying Detection](#password-spraying-detection)
+- [Future Labs](#future-labs)
+
+
+
 # SOC Home Lab – Active Directory
 
 This project documents the creation of a hands-on Active Directory lab designed to simulate real-world enterprise environments from a defensive (SOC) perspective.
